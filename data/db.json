@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Create new website ",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus nec nunc tincidunt ultricies. Nullam nec purus nec nunc tincidunt ultricies.",
+      "complete": true
+    },
+    {
+      "id": "2",
+      "title": "Update website content",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus nec nunc tincidunt ultricies. Nullam nec purus nec nunc tincidunt ultricies.",
+      "complete": false
+    },
+    {
+      "id": "3",
+      "title": "Add new product",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus nec nunc tincidunt ultricies. Nullam nec purus nec nunc tincidunt ultricies.",
+      "complete": false
+    },
+    {
+      "id": "4",
+      "title": "Update product prices",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus nec nunc tincidunt ultricies. Nullam nec purus nec nunc tincidunt ultricies.",
+      "complete": true
+    },
+    {
+      "id": "5",
+      "title": "Update product descriptions",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus nec nunc tincidunt ultricies. Nullam nec purus nec nunc tincidunt ultricies.",
+      "complete": false
+    },
+    {
+      "id": "5d1d",
+      "title": "Create new Vue Website",
+      "details": "Use Vue JS for this task",
+      "complete": false
+    }
+  ]
+}
